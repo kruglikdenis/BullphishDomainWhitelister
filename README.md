@@ -18,4 +18,18 @@ PS C:\Users\T13nn3s\Scripts> .\BullphishWhitelister.ps1
 ```
 PS C:\Users\T13nn3s\Scripts> .RemoveBullphishWhitelister.ps1
 ```
-[screenshot]
+![BullPhish ID remove domains to trusted websites](https://i.imgur.com/9TgBHyr.png "BullPhish ID remove domains to trusted websites")
+
+## Domains being added to the trusted websites
+These domains are being added to the trusted websites:
+  1) securityplusrouting.net
+  2) bp09-securityawareness.com
+  3) mail.bullphishid.com
+  4) mail.bullphish.com
+  5) train.bullphishid.com
+  6) service-noreply.info
+  7) myonlinesecuritysupport.com
+  8) online-account.info
+
+## Smartscreen Filter
+This Powershell script is also disabling the Smartscreen Filter for the Trusted Websites Zone. The script 'RemoveBullphishWhitelister.ps1' is enabling back the Smartscreen Filter.

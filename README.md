@@ -30,6 +30,11 @@ These domains are being added to the trusted websites:
   6) service-noreply.info
   7) myonlinesecuritysupport.com
   8) online-account.info
+  9) authorizedaccounnt.net
+  10) authorizedaccounnt.com
+  11) cloudsecureelogin.com
+  12) quicksecureelogin.com
+  13) secureelogin.net
 
 ## Smartscreen Filter
 This Powershell script is also disabling the Smartscreen Filter for the Trusted Websites Zone. The script 'RemoveBullphishWhitelister.ps1' is enabling back the Smartscreen Filter.

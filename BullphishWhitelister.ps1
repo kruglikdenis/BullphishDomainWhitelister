@@ -66,7 +66,12 @@ $TrustedWebsites = @(
     "train.bullphishid.com",
     "service-noreply.info",
     "myonlinesecuritysupport.com",
-    "online-account.info"
+    "online-account.info",
+    "authorizedaccounnt.net",
+    "authorizedaccounnt.com",
+    "cloudsecureelogin.com",
+    "quicksecureelogin.com",
+    "secureelogin.net"
 )
 
 foreach ($site in $TrustedWebsites) {
